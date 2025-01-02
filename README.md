@@ -1,13 +1,14 @@
 # ForumHubChallenge
 Um aplicativo de fórum utilizando Spring Boot para criar uma API Rest com as funcionalidades básicas de postagem, exibição, filtragem, atualização e remoção de tópicos.
 
+## Funcionalidades:
 
-    .Criar um novo tópico;
+    - Criar um novo tópico;
 
-    .Mostrar todos os tópicos criados;
+    - Mostrar todos os tópicos criados;
 
-    .Mostrar um tópico específico;
+    - Mostrar um tópico específico;
 
-    .Atualizar um tópico;
+    - Atualizar um tópico;
 
-    .Eliminar um tópico.
+    - Eliminar um tópico.
